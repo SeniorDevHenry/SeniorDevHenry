@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Henry Smith – Senior JavaScript Developer
 
-<!--
-**SeniorDevJohn/SeniorDevJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Senior JavaScript Engineer with over 10 years of experience building modern web applications, scalable systems, and delightful user interfaces. My work spans startups to enterprise platforms, with a deep focus on performance, usability, and maintainable code.
 
-Here are some ideas to get you started:
+## 🧠 Core Specialties
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 JavaScript (ES6+), TypeScript
+- ⚛️ React, Next.js, Vue
+- 🧩 Node.js, Express, NestJS
+- 🔗 RESTful APIs, GraphQL, WebSockets
+- 🧪 Jest, Playwright, Cypress, Vitest
+- 🗃️ MongoDB, PostgreSQL, Redis
+- 🧰 Webpack, Vite, Docker, CI/CD
+- ☁️ AWS (Lambda, S3, API Gateway), Firebase
+- 📦 Monorepos, microservices, design systems
+
+## 🧑‍💼 About Me
+
+- 🌱 Learning: AI and Machine Learning
+- 🧠 Known for: Performance-first coding, architecture thinking, clean abstractions
+- 🗣️ Languages: English (fluent)
+
+## 📫 Let's Connect
+
+- 🌐 Website: [yourdomain.com]
+- 📬 Email: devhenrysmith@outlook.com
+
+---
+
+Thanks for stopping by! ⭐ If you find something interesting here, feel free to follow or reach out.
+
