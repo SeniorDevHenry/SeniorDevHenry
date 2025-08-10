@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm a Senior JavaScript Engineer with over 10 year
 
 ## 📫 Let's Connect
 
-- 🌐 Website: [https://topseniordev.github.io/]
-- 📬 Email: devhenrysmith@outlook.com
+- 🌐 Website: https://topseniordev.github.io/
+- 📬 Email: devhenrysmith@gmail.com
 
 ---
 
