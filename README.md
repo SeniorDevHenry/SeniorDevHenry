@@ -41,7 +41,7 @@ teams, and building innovative web solutions for diverse business needs.
 
 ## 📫 Let's Connect
 
-- 📬 Email: devhenrysmith@gmail.com
+- 📬 Email: kwam.green.dev@gmail.com
 
 ---
 
