@@ -42,7 +42,6 @@ teams, and building innovative web solutions for diverse business needs.
 
 ## 📫 Let's Connect
 
-- 🌐 Website: https://topseniordev.github.io/
 - 📬 Email: devhenrysmith@gmail.com
 
 ---
