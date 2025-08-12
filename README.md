@@ -38,7 +38,6 @@ teams, and building innovative web solutions for diverse business needs.
 
 - 🌱 Learning: AI and Machine Learning
 - 🧠 Known for: Performance-first coding, architecture thinking, clean abstractions
-- 🗣️ Languages: English (fluent)
 
 ## 📫 Let's Connect
 
