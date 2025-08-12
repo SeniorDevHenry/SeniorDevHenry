@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Henry Smith – Senior JavaScript Developer
+# 👋 Hi, I'm Kwam Green – Senior Full-Stack Engineer
 
-Welcome to my GitHub profile! I'm a Senior JavaScript Engineer with over 10 years of experience building modern web applications, scalable systems, and delightful user interfaces. My work spans startups to enterprise platforms, with a deep focus on performance, usability, and maintainable code.
+Welcome to my GitHub profile! Senior Full-Stack Developer with over 12 years of experience designing, developing, and deploying scalable web applications. Skilled in modern JavaScript frameworks, the MERN stack (MongoDB, Express.js, React, Node.js), backend technologies, and robust PHP/Laravel systems, with optional experience in AI-driven features. Proven record of delivering high-quality projects, leading development
+teams, and building innovative web solutions for diverse business needs.
 
 ## 🧠 Core Specialties
 
