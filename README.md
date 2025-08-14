@@ -49,7 +49,7 @@ teams, and building innovative web solutions for diverse business needs.
 ## 📫 Let's Connect
 
 - 📬 Email: kwam.green.dev@gmail.com
-- 📱  Phone: [+1 (929) 996-6601](tel:+19299966601)  
+- 📱  Phone: <a href="tel:+19299966601">+1 (929) 996-6601</a>  
 - 🔗 Linkedin: https://www.linkedin.com/in/kwam-green-47272437a
 
 ---
