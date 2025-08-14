@@ -49,6 +49,8 @@ teams, and building innovative web solutions for diverse business needs.
 ## 📫 Let's Connect
 
 - 📬 Email: kwam.green.dev@gmail.com
+- 📱  Phone: +1 (123) 456-7890
+- 🔗 Linkedin: https://www.linkedin.com/in/kwam-green-47272437a
 
 ---
 
