@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kwam Green – Senior Full-Stack Engineer
+# 👋 Hi, I'm Daniel Tadros – Senior Full-Stack Engineer
 
-Welcome to my GitHub profile! Senior Full-Stack Developer with over 15 years of experience designing, developing, and deploying scalable web applications. Skilled in modern JavaScript frameworks, the MERN stack (MongoDB, Express.js, React, Node.js), backend technologies, and robust PHP/Laravel, C#/.NET, Python/Django systems, with optional experience in AI-driven features. Proven record of delivering high-quality projects, leading development
+Senior Full-Stack Engineer with over 15 years of experience designing, developing, and deploying scalable web applications. Skilled in modern JavaScript frameworks, the MERN stack (MongoDB, Express.js, React, Node.js), backend technologies, and robust PHP/Laravel, C#/.NET, Python/Django systems, with optional experience in AI-driven features. Proven record of delivering high-quality projects, leading development
 teams, and building innovative web solutions for diverse business needs.
 
 ## 🧠 Core Specialties
@@ -41,16 +41,37 @@ teams, and building innovative web solutions for diverse business needs.
   <img width="48" height="48" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 </p>
 
-## 🧑‍💼 About Me
+## 🚀 What I Offer
 
-- 🌱 Learning: AI and Machine Learning
-- 🧠 Known for: Performance-first coding, architecture thinking, clean abstractions
+- **Full-Stack Web Development**  
+  - Scalable backend services (Node.js, Django, .NET, GraphQL, REST)  
+  - Modern, responsive frontend apps (React, Next.js, Angular, Vue, TypeScript)  
+  - Database design & optimization (PostgreSQL, MySQL, MongoDB)  
+
+- **Architecture & System Design**  
+  - Microservices & API-driven solutions  
+  - Cloud-native apps (AWS, GCP, Azure)  
+  - CI/CD pipelines, DevOps, and infrastructure as code  
+
+- **Performance & Scalability**  
+  - Optimizing queries, caching strategies, load balancing  
+  - Code reviews and best practices for long-term maintainability  
+
+- **Team & Project Leadership**  
+  - Agile workflows (Scrum/Kanban)  
+  - Mentorship and code quality enforcement  
+  - Translating business goals into technical deliverables  
+
+## 📈 Why Work With Me?
+
+- 10+ years of hands-on experience in **end-to-end software development**  
+- Proven track record of **leading teams** and shipping products used by thousands  
+- Strong focus on **clean code, testing, and maintainability**  
+- Ability to bridge the gap between **business strategy** and **engineering execution**
 
 ## 📫 Let's Connect
 
-- 📬 Email: kwam.green.dev@gmail.com
-- 📱  Phone: <a href="tel:+19299966601">+1 (929) 996-6601</a>  
-- 🔗 Linkedin: https://www.linkedin.com/in/kwam-green-47272437a
+- 📬 Email: daniel.tadros.0209@gmail.com
 
 ---
 
