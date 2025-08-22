@@ -71,7 +71,7 @@ teams, and building innovative web solutions for diverse business needs.
 
 ## 📫 Let's Connect
 
-- 📬 Email: daniel.tadros.0209@gmail.com
+- 📬 Email: devchronicles738@gmail.com
 
 ---
 
