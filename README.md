@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Tadros – Senior Full-Stack Engineer
 
-Senior Full-Stack Engineer with over 15 years of experience designing, developing, and deploying scalable web applications. Skilled in modern JavaScript frameworks, the MERN stack (MongoDB, Express.js, React, Node.js), backend technologies, and robust PHP/Laravel, C#/.NET, Python/Django systems, with optional experience in AI-driven features. Proven record of delivering high-quality projects, leading development
+Senior Full-Stack Engineer with over 12 years of experience designing, developing, and deploying scalable web applications. Skilled in modern JavaScript frameworks, the MERN stack (MongoDB, Express.js, React, Node.js), backend technologies, and robust PHP/Laravel, C#/.NET, Python/Django systems, with optional experience in AI-driven features. Proven record of delivering high-quality projects, leading development
 teams, and building innovative web solutions for diverse business needs.
 
 ## 🧠 Core Specialties
