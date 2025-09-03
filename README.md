@@ -72,7 +72,7 @@ teams, and building innovative web solutions for diverse business needs.
 ## 📫 Let's Connect
 
 - 📬 Email: devchronicles738@gmail.com
-- 📞 Phone: [Call Me](tel:+12136404327) 
+- 📞 Phone: +1 (123) 456-7890 
 - 🔗 LinkedIn: [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/daniel-tadros-b8208a382)
 ---
 
