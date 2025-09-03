@@ -44,7 +44,7 @@ teams, and building innovative web solutions for diverse business needs.
 ## 🚀 What I Offer
 
 - **Full-Stack Web Development**  
-  - Scalable backend services (Node.js, Django, .NET, GraphQL, REST)  
+  - Scalable backend services (Node.js, Django, Spring Boot, .NET, GraphQL, REST)  
   - Modern, responsive frontend apps (React, Next.js, Angular, Vue, TypeScript)  
   - Database design & optimization (PostgreSQL, MySQL, MongoDB)  
 
