@@ -73,7 +73,7 @@ teams, and building innovative web solutions for diverse business needs.
 
 - 📬 Email: devchronicles738@gmail.com
 - 📞 Phone: +1 (213) 640-4327 
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/daniel-tadros-b8208a382)
+- 🔗 LinkedIn: [Daniel Tadros](https://www.linkedin.com/in/daniel-tadros-b8208a382)
 ---
 
 Thanks for stopping by! ⭐ If you find something interesting here, feel free to follow or reach out.
